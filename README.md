@@ -53,7 +53,7 @@
 ## Categories
 
 #### GitHub Actions 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [Mayola Dsouza](https://github.com/mayola04)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
@@ -360,4 +360,4 @@ Please read the [contribution guidelines](contributing.md) first.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Abhishek Naidu](https://abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Mayola Dsouza](https://Mayoladsouza.tech/) has waived all copyright and related or neighboring rights to this work.
